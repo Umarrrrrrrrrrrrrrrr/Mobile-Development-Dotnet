@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/workshop5/workshop5.csproj",
-      "projectName": "workshop5",
-      "projectPath": "/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/workshop5/workshop5.csproj",
+      "projectUniqueName": "/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task1/Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task1/Task1.csproj",
       "packagesPath": "/Users/umarabdullaansari/.nuget/packages/",
-      "outputPath": "/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/workshop5/obj/",
+      "outputPath": "/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/umarabdullaansari/.nuget/NuGet/NuGet.Config"

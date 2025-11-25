@@ -1,0 +1,15 @@
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/bin/Debug/net10.0/Task6
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/bin/Debug/net10.0/Task6.deps.json
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/bin/Debug/net10.0/Task6.runtimeconfig.json
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/bin/Debug/net10.0/Task6.dll
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/bin/Debug/net10.0/Task6.pdb
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.AssemblyInfoInputs.cache
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.AssemblyInfo.cs
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.csproj.CoreCompileInputs.cache
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.sourcelink.json
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.dll
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/refint/Task6.dll
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.pdb
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/Task6.genruntimeconfig.cache
+/Users/umarabdullaansari/Documents/Application Development - Dotnet/Class Work codes/Practices/workshop5/Task6/obj/Debug/net10.0/ref/Task6.dll
